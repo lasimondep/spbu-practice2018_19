@@ -4,3 +4,4 @@
 # Object files & library
 *.o
 *.dll
+*.class
